@@ -1,0 +1,26 @@
+h1{
+    color: deepskyblue;
+    border-style: solid ;
+    background-color: deeppink;
+    font-family: "Audiowide", sans-serif;
+    text-shadow: 3px 3px 3px #ababab;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h2{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(14, 20, 14);
+    border-style: solid;
+    text-shadow: 3px 3px 3px red;
+    background-color: rgb(173, 255, 47);
+}
+body img{
+    width: 1500px;
+    height: 700px;
+}
+
